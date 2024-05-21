@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jay Bhardiya</h1>
 <h3 align="center">Cross-Platform Dev</h3>
 
-- 🔭 I’m currently working on **Urban Outfitter's**
+- 🔭 I’m currently working on **Urban Outfitter's & indiXport**
 
 - 🌱 I’m currently learning **Flutter, Firebase**
 
