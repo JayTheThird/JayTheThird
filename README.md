@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Flutter, Firebase**
 
-- 💬 Ask me about **Flutter, firebase**
+- 💬 Ask me about **Flutter, firebase, PHP, JAVA, MYSql**
 
 - 📫 How to reach me **jaypatel161200@gmail.com**
 
