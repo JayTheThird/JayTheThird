@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jay Bhardiya</h1>
 <h3 align="center">Flutter & PHP Dev</h3>
 
-- 🔭 I’m currently working on **Soundify**
+- 🔭 I’m currently working on **Songster**
 
 - 🌱 I’m currently learning **Flutter, Firebase**
 
