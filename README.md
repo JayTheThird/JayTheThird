@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Jay Bhardiya</h1>
 <h3 align="center">Flutter & PHP Dev</h3>
 
-- 🔭 I’m currently working on **Songster**
+- 🔭 I’m currently building **Songster**, a dynamic music streaming app designed to enhance the way we experience music.
 
-- 🌱 I’m currently learning **Flutter, Firebase**
+- 🌱 Passionate about expanding my expertise in **Flutter** and mastering modern app development techniques.
 
-- 💬 Ask me about **Flutter, firebase, PHP, JAVA, MYSql**
+- 💬 Always excited to discuss and help with **Flutter, Firebase, PHP, Java, and MySQL**—whether it's about app architecture, backend development, or seamless integrations.
+
+- 🚀 Eager to learn, innovate, and collaborate on meaningful projects that push the boundaries of creativity and technology.
 
 - 📫 How to reach me **jaypatel161200@gmail.com**
 
